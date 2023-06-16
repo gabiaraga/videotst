@@ -1,0 +1,23 @@
+.container {
+  width: 100%;
+  max-width: 30rem;
+  height: 30rem;
+  max-height: inherit;
+  overflow: auto;
+}
+
+.container div + div {
+  margin-top: 1rem;
+  padding-top: 0.5em;
+  border-top: 1px solid #cccccc;
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 87.5%;
+  }
+
+  .container {
+    max-width: 100%;
+  }
+}

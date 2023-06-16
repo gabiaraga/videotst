@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: black;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+}
+
+body, input, textarea, button {
+  font-weight: 400;
+  font-size: 1rem;
+}
