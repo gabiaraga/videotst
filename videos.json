@@ -2,31 +2,31 @@
   {
     "id": 1,
     "title": "Aula 1",
-    "thumbnail": "./src/assets/thub/video1.thub.png",
+    "thumbnail": "./src/assets/thub/video1.thub.jpg",
     "url": "./src/assets/video-sample-1.mp4"
   },
   {
     "id": 2,
     "title": "Aula 2",
-    "thumbnail": "./src/assets/thub/video2.thub.png",
+    "thumbnail": "../src/assets/thub/video2.thub.jpg",
     "url": "./src/assets/video-sample-2.mp4"
   },
   {
     "id": 3,
     "title": "Aula 3",
-    "thumbnail": "./src/assets/thub/video3.thub.png",
+    "thumbnail": "./src/assets/thub/video3.thub.jpg",
     "url": "./src/assets/video-sample-3.mp4"
   },
   {
     "id": 4,
     "title": "Aula 4",
-    "thumbnail": "./src/assets/thub/video4.thub.png",
+    "thumbnail": "./src/assets/thub/video4.thub.jpg",
     "url": "./src/assets/video-sample-4.mp4"
   },
   {
     "id": 5,
     "title": "Aula 5",
-    "thumbnail": "./src/assets/thub/video5.thub.png",
+    "thumbnail": "./src/assets/thub/video5.thub.jpg",
     "url": "./src/assets/video-sample-5.mp4"
   }
 ]
